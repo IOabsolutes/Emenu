@@ -1,0 +1,80 @@
+Файл: 2025012720334006491.pdf
+[EasyOCR][llama3] ➜ Акт (2.02s)
+[EasyOCR][deepseek-llm] ➜ Договор (2.32s)
+[EasyOCR][deepseek-r1:7b] ➜ Договор (9.01s)
+[Tesseract][llama3] ➜ Акт (2.56s)
+[Tesseract][deepseek-llm] ➜ Договор (2.27s)
+[Tesseract][deepseek-r1:7b] ➜ Акт (6.34s)
+
+Файл: 2025012819323005073.pdf
+[EasyOCR][llama3] ➜ Акт (2.65s)
+[EasyOCR][deepseek-llm] ➜ Договор (2.36s)
+[EasyOCR][deepseek-r1:7b] ➜ Договор (7.23s)
+[Tesseract][llama3] ➜ Акт (2.61s)
+[Tesseract][deepseek-llm] ➜ УПД (2.33s)
+[Tesseract][deepseek-r1:7b] ➜ Договор (7.33s)
+
+Файл: 2025012819323805095.pdf
+[EasyOCR][llama3] ➜ Акт (2.65s)
+[EasyOCR][deepseek-llm] ➜ Договор (2.37s)
+[EasyOCR][deepseek-r1:7b] ➜ Договор (9.14s)
+[Tesseract][llama3] ➜ Акт (2.58s)
+[Tesseract][deepseek-llm] ➜ Договор (2.28s)
+[Tesseract][deepseek-r1:7b] ➜ Договор (6.47s)
+
+Файл: 2025012819324405112.pdf
+[EasyOCR][llama3] ➜ Акт (2.65s)
+[EasyOCR][deepseek-llm] ➜ Договор (2.36s)
+[EasyOCR][deepseek-r1:7b] ➜ Акт (7.75s)
+[Tesseract][llama3] ➜ Акт (2.59s)
+[Tesseract][deepseek-llm] ➜ Счет (2.32s)
+[Tesseract][deepseek-r1:7b] ➜ Договор (8.73s)
+
+Файл: 2025012819324705121.pdf
+[EasyOCR][llama3] ➜ Акт (2.62s)
+[EasyOCR][deepseek-llm] ➜ Счет-фактура (2.44s)
+[EasyOCR][deepseek-r1:7b] ➜ Договор (13.21s)
+[Tesseract][llama3] ➜ Акт (2.49s)
+[Tesseract][deepseek-llm] ➜ Договор (2.21s)
+[Tesseract][deepseek-r1:7b] ➜ Договор (9.37s)
+
+Файл: 2025012819461205135.pdf
+[EasyOCR][llama3] ➜ Акт (2.40s)
+[EasyOCR][deepseek-llm] ➜ Договор (2.38s)
+[EasyOCR][deepseek-r1:7b] ➜ Договор (7.12s)
+[Tesseract][llama3] ➜ Акт (2.54s)
+[Tesseract][deepseek-llm] ➜ Договор (2.26s)
+[Tesseract][deepseek-r1:7b] ➜ Договор (6.06s)
+
+Файл: 2025012819461605146.pdf
+[EasyOCR][llama3] ➜ Акт (2.70s)
+[EasyOCR][deepseek-llm] ➜ Договор (2.37s)
+[EasyOCR][deepseek-r1:7b] ➜ Акт (7.83s)
+[Tesseract][llama3] ➜ Акт (2.60s)
+[Tesseract][deepseek-llm] ➜ Договор (2.33s)
+[Tesseract][deepseek-r1:7b] ➜ Акт (6.26s)
+
+Файл: 2025012819462105159.pdf
+[EasyOCR][llama3] ➜ Акт (2.66s)
+[EasyOCR][deepseek-llm] ➜ Договор (2.39s)
+[EasyOCR][deepseek-r1:7b] ➜ Договор (7.44s)
+[Tesseract][llama3] ➜ Акт (2.55s)
+[Tesseract][deepseek-llm] ➜ Счет (2.26s)
+[Tesseract][deepseek-r1:7b] ➜ Акт (9.50s)
+
+Файл: 2025012910260307603.pdf
+[EasyOCR][llama3] ➜ Акт (2.46s)
+[EasyOCR][deepseek-llm] ➜ Договор (2.49s)
+[EasyOCR][deepseek-r1:7b] ➜ Акт (6.24s)
+[Tesseract][llama3] ➜ Акт (2.62s)
+[Tesseract][deepseek-llm] ➜ Договор (2.36s)
+[Tesseract][deepseek-r1:7b] ➜ Акт (5.87s)
+
+Файл: 89102618_АО Телекомпания НТВ_Акт сдачиприемки услуг_5505305074_31.05.2021.pdf
+[EasyOCR][llama3] ➜ Акт (2.82s)
+[EasyOCR][deepseek-llm] ➜ Акт (2.57s)
+[EasyOCR][deepseek-r1:7b] ➜ Договор (6.99s)
+[Tesseract][llama3] ➜ Акт (2.74s)
+[Tesseract][deepseek-llm] ➜ УПД (2.54s)
+[Tesseract][deepseek-r1:7b] ➜ Акт (8.32s)
+

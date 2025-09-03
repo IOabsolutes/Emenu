@@ -1,0 +1,815 @@
+Отчет по точности классификации:
+
+EasyOCR:
+  Договор: 82.0% (41/50)
+  Акт: 100.0% (50/50)
+  Счет-фактура: 96.0% (48/50)
+  Счет: 76.0% (38/50)
+
+Tesseract:
+  Договор: 82.0% (41/50)
+  Акт: 98.0% (49/50)
+  Счет-фактура: 36.0% (18/50)
+  Счет: 84.0% (42/50)
+
+-- Детали по каждому файлу --
+
+Файл: Договор (26).pdf
+[EasyOCR][llama3] ➜ Договор (6.67s)
+[Tesseract][llama3] ➜ Договор (3.80s)
+
+Файл: Договор (32).pdf
+[EasyOCR][llama3] ➜ Акт (3.11s)
+[Tesseract][llama3] ➜ Акт (2.75s)
+
+Файл: Акт (46).pdf
+[EasyOCR][llama3] ➜ Акт (2.42s)
+[Tesseract][llama3] ➜ Акт (2.16s)
+
+Файл: Договор (44).pdf
+[EasyOCR][llama3] ➜ Договор (4.08s)
+[Tesseract][llama3] ➜ Договор (3.47s)
+
+Файл: Счет-фактура (43).pdf
+[EasyOCR][llama3] ➜ Счет-фактура (3.16s)
+[Tesseract][llama3] ➜ УПД (4.13s)
+
+Файл: Договор (41).pdf
+[EasyOCR][llama3] ➜ Договор (3.10s)
+[Tesseract][llama3] ➜ Договор (2.96s)
+
+Файл: Акт (12).pdf
+[EasyOCR][llama3] ➜ Акт (1.86s)
+[Tesseract][llama3] ➜ Акт (1.39s)
+
+Файл: Договор (34).pdf
+[EasyOCR][llama3] ➜ Акт (1.87s)
+[Tesseract][llama3] ➜ Акт (1.74s)
+
+Файл: Счета (19).pdf
+[EasyOCR][llama3] ➜ УПД (1.83s)
+[Tesseract][llama3] ➜ Счет (2.44s)
+
+Файл: Счета (48).pdf
+[EasyOCR][llama3] ➜ Счет (1.86s)
+[Tesseract][llama3] ➜ Счет (1.72s)
+
+Файл: Счет-фактура (7).pdf
+[EasyOCR][llama3] ➜ Счет-фактура (4.38s)
+[Tesseract][llama3] ➜ Акт (4.55s)
+
+Файл: Счета (27).pdf
+[EasyOCR][llama3] ➜ УПД (1.83s)
+[Tesseract][llama3] ➜ Счет (1.77s)
+
+Файл: Договор (38).pdf
+[EasyOCR][llama3] ➜ Акт (2.70s)
+[Tesseract][llama3] ➜ АКТ (2.37s)
+
+Файл: Счет-фактура (30).pdf
+[EasyOCR][llama3] ➜ Счет-фактура (3.12s)
+[Tesseract][llama3] ➜ Счет-фактура (3.56s)
+
+Файл: Акт (45).pdf
+[EasyOCR][llama3] ➜ Акт (2.26s)
+[Tesseract][llama3] ➜ Акт (1.87s)
+
+Файл: Счет-фактура (16).pdf
+[EasyOCR][llama3] ➜ Счет-фактура (3.52s)
+[Tesseract][llama3] ➜ УПД (4.03s)
+
+Файл: Договор (21).pdf
+[EasyOCR][llama3] ➜ Договор (3.54s)
+[Tesseract][llama3] ➜ Договор (3.27s)
+
+Файл: Счета (33).pdf
+[EasyOCR][llama3] ➜ Счет (2.78s)
+[Tesseract][llama3] ➜ Счет (2.78s)
+
+Файл: Счета (9).pdf
+[EasyOCR][llama3] ➜ Счет (2.06s)
+[Tesseract][llama3] ➜ Счет-фактура (2.17s)
+
+Файл: Договор (10).pdf
+[EasyOCR][llama3] ➜ Договор (5.86s)
+[Tesseract][llama3] ➜ Договор (5.33s)
+
+Файл: Акт (31).pdf
+[EasyOCR][llama3] ➜ Акт (2.10s)
+[Tesseract][llama3] ➜ Акт (1.93s)
+
+Файл: Счета (3).pdf
+[EasyOCR][llama3] ➜ Счет (1.75s)
+[Tesseract][llama3] ➜ Счет (1.80s)
+
+Файл: Счет-фактура (49).pdf
+[EasyOCR][llama3] ➜ Счет-фактура (3.76s)
+[Tesseract][llama3] ➜ УПД (3.19s)
+
+Файл: Счет-фактура (29).pdf
+[EasyOCR][llama3] ➜ Счет-фактура (3.72s)
+[Tesseract][llama3] ➜ УПД (4.06s)
+
+Файл: Счета (32).pdf
+[EasyOCR][llama3] ➜ Счет (1.82s)
+[Tesseract][llama3] ➜ Счет (1.72s)
+
+Файл: Счет-фактура (21).pdf
+[EasyOCR][llama3] ➜ Счет-фактура (3.29s)
+[Tesseract][llama3] ➜ УПД (Universal Postal Document) (3.38s)
+
+Файл: Счета (47).pdf
+[EasyOCR][llama3] ➜ УПД (1.80s)
+[Tesseract][llama3] ➜ Счет (1.58s)
+
+Файл: Счет-фактура (2).pdf
+[EasyOCR][llama3] ➜ Счет-фактура (2.98s)
+[Tesseract][llama3] ➜ УПД (3.46s)
+
+Файл: Акт (29).pdf
+[EasyOCR][llama3] ➜ Акт (2.13s)
+[Tesseract][llama3] ➜ Акт (1.87s)
+
+Файл: Акт (20).pdf
+[EasyOCR][llama3] ➜ Акт (1.90s)
+[Tesseract][llama3] ➜ Акт (1.62s)
+
+Файл: Счета (5).pdf
+[EasyOCR][llama3] ➜ Счет (1.80s)
+[Tesseract][llama3] ➜ Счет-фактура (1.86s)
+
+Файл: Счета (4).pdf
+[EasyOCR][llama3] ➜ Счет (1.88s)
+[Tesseract][llama3] ➜ Счет (1.52s)
+
+Файл: Акт (14).pdf
+[EasyOCR][llama3] ➜ Акт (2.20s)
+[Tesseract][llama3] ➜ Акт (2.04s)
+
+Файл: Счет-фактура (13).pdf
+[EasyOCR][llama3] ➜ Счет-фактура (3.56s)
+[Tesseract][llama3] ➜ УПД (Universal Передаточный Документ) (3.74s)
+
+Файл: Договор (33).pdf
+[EasyOCR][llama3] ➜ Акт (1.97s)
+[Tesseract][llama3] ➜ Акт (1.74s)
+
+Файл: Счета (20).pdf
+[EasyOCR][llama3] ➜ Счет (1.83s)
+[Tesseract][llama3] ➜ Счет (2.53s)
+
+Файл: Акт (7).pdf
+[EasyOCR][llama3] ➜ Акт (1.77s)
+[Tesseract][llama3] ➜ Акт (1.52s)
+
+Файл: Договор (37).pdf
+[EasyOCR][llama3] ➜ АКТ (2.91s)
+[Tesseract][llama3] ➜ Акт (2.95s)
+
+Файл: Договор (49).pdf
+[EasyOCR][llama3] ➜ Договор (3.84s)
+[Tesseract][llama3] ➜ Договор (4.16s)
+
+Файл: Акт (4).pdf
+[EasyOCR][llama3] ➜ Акт (2.27s)
+[Tesseract][llama3] ➜ Акт (1.99s)
+
+Файл: Счет-фактура (26).pdf
+[EasyOCR][llama3] ➜ Счет-фактура (2.97s)
+[Tesseract][llama3] ➜ Счет-фактура (3.41s)
+
+Файл: Счета (38).pdf
+[EasyOCR][llama3] ➜ Счет-оферта (4.33s)
+[Tesseract][llama3] ➜ Счет-оферта (4.48s)
+
+Файл: Договор (19).pdf
+[EasyOCR][llama3] ➜ Договор (3.60s)
+[Tesseract][llama3] ➜ Договор (3.74s)
+
+Файл: Счет-фактура (24).pdf
+[EasyOCR][llama3] ➜ Счет-фактура (3.29s)
+[Tesseract][llama3] ➜ УПД (3.50s)
+
+Файл: Акт (38).pdf
+[EasyOCR][llama3] ➜ Акт (2.29s)
+[Tesseract][llama3] ➜ Акт (1.78s)
+
+Файл: Акт (34).pdf
+[EasyOCR][llama3] ➜ Акт (2.18s)
+[Tesseract][llama3] ➜ Акт (1.83s)
+
+Файл: Счета (44).pdf
+[EasyOCR][llama3] ➜ Счет (2.29s)
+[Tesseract][llama3] ➜ Счет (2.05s)
+
+Файл: Счет-фактура (12).pdf
+[EasyOCR][llama3] ➜ Акт (5.20s)
+[Tesseract][llama3] ➜ УПД (Universal Transit Document) (5.42s)
+
+Файл: Договор (46).pdf
+[EasyOCR][llama3] ➜ Договор (2.94s)
+[Tesseract][llama3] ➜ Договор (3.08s)
+
+Файл: Счета (16).pdf
+[EasyOCR][llama3] ➜ УПД (1.83s)
+[Tesseract][llama3] ➜ Счет (2.14s)
+
+Файл: Счета (8).pdf
+[EasyOCR][llama3] ➜ Счет (2.06s)
+[Tesseract][llama3] ➜ Счет (1.84s)
+
+Файл: Договор (3).pdf
+[EasyOCR][llama3] ➜ Акт (1.62s)
+[Tesseract][llama3] ➜ Счет-фактура (1.45s)
+
+Файл: Счет-фактура (9).pdf
+[EasyOCR][llama3] ➜ Счет-фактура (2.68s)
+[Tesseract][llama3] ➜ УПД (2.62s)
+
+Файл: Акт (25).pdf
+[EasyOCR][llama3] ➜ Акт (2.13s)
+[Tesseract][llama3] ➜ Акт (1.80s)
+
+Файл: Договор (23).pdf
+[EasyOCR][llama3] ➜ Договор (4.39s)
+[Tesseract][llama3] ➜ Договор (3.99s)
+
+Файл: Договор (22).pdf
+[EasyOCR][llama3] ➜ Договор (3.39s)
+[Tesseract][llama3] ➜ Договор (3.22s)
+
+Файл: Счета (21).pdf
+[EasyOCR][llama3] ➜ УПД (1.83s)
+[Tesseract][llama3] ➜ Счет (3.35s)
+
+Файл: Акт (8).pdf
+[EasyOCR][llama3] ➜ Акт (1.75s)
+[Tesseract][llama3] ➜ Акт (1.26s)
+
+Файл: Счет-фактура (50).pdf
+[EasyOCR][llama3] ➜ Счет-фактура (3.70s)
+[Tesseract][llama3] ➜ УПД (3.18s)
+
+Файл: Счета (42).pdf
+[EasyOCR][llama3] ➜ Счет (2.19s)
+[Tesseract][llama3] ➜ Счет (1.95s)
+
+Файл: Счета (30).pdf
+[EasyOCR][llama3] ➜ Счет (1.80s)
+[Tesseract][llama3] ➜ Счет (1.62s)
+
+Файл: Счета (11).pdf
+[EasyOCR][llama3] ➜ Счет (2.02s)
+[Tesseract][llama3] ➜ Счет (2.13s)
+
+Файл: Счета (37).pdf
+[EasyOCR][llama3] ➜ Счет (2.68s)
+[Tesseract][llama3] ➜ Счет (2.68s)
+
+Файл: Счета (12).pdf
+[EasyOCR][llama3] ➜ Счет-фактура (2.03s)
+[Tesseract][llama3] ➜ Счет-фактура (2.23s)
+
+Файл: Акт (6).pdf
+[EasyOCR][llama3] ➜ Акт (1.81s)
+[Tesseract][llama3] ➜ Акт (1.31s)
+
+Файл: Счет-фактура (5).pdf
+[EasyOCR][llama3] ➜ УПД (Universal Payment Document) (4.30s)
+[Tesseract][llama3] ➜ Счет-фактура (4.01s)
+
+Файл: Счета (28).pdf
+[EasyOCR][llama3] ➜ Акт (1.54s)
+[Tesseract][llama3] ➜ Акт (1.22s)
+
+Файл: Договор (5).pdf
+[EasyOCR][llama3] ➜ Договор (3.61s)
+[Tesseract][llama3] ➜ Договор (3.76s)
+
+Файл: Счет-фактура (31).pdf
+[EasyOCR][llama3] ➜ Счет-фактура (3.17s)
+[Tesseract][llama3] ➜ УПД (3.38s)
+
+Файл: Счета (39).pdf
+[EasyOCR][llama3] ➜ Счет (3.33s)
+[Tesseract][llama3] ➜ Счет (2.78s)
+
+Файл: Акт (22).pdf
+[EasyOCR][llama3] ➜ Акт (1.81s)
+[Tesseract][llama3] ➜ Договор (1.48s)
+
+Файл: Счета (41).pdf
+[EasyOCR][llama3] ➜ Счет (2.07s)
+[Tesseract][llama3] ➜ Счет (1.83s)
+
+Файл: Счет-фактура (45).pdf
+[EasyOCR][llama3] ➜ Счет-фактура (3.05s)
+[Tesseract][llama3] ➜ Счет-фактура (3.72s)
+
+Файл: Акт (43).pdf
+[EasyOCR][llama3] ➜ Акт (2.15s)
+[Tesseract][llama3] ➜ Акт (1.77s)
+
+Файл: Счет-фактура (14).pdf
+[EasyOCR][llama3] ➜ Счет-фактура (3.58s)
+[Tesseract][llama3] ➜ УПД (3.79s)
+
+Файл: Договор (28).pdf
+[EasyOCR][llama3] ➜ Договор (3.23s)
+[Tesseract][llama3] ➜ Договор (3.01s)
+
+Файл: Счет-фактура (46).pdf
+[EasyOCR][llama3] ➜ Счет-фактура (3.20s)
+[Tesseract][llama3] ➜ Счет-фактура (3.74s)
+
+Файл: Счета (31).pdf
+[EasyOCR][llama3] ➜ Счет (1.86s)
+[Tesseract][llama3] ➜ Счет (1.70s)
+
+Файл: Счета (22).pdf
+[EasyOCR][llama3] ➜ Счет (1.75s)
+[Tesseract][llama3] ➜ УПД (2.46s)
+
+Файл: Договор (12).pdf
+[EasyOCR][llama3] ➜ Договор (5.21s)
+[Tesseract][llama3] ➜ Договор (5.06s)
+
+Файл: Счета (35).pdf
+[EasyOCR][llama3] ➜ Счет (1.82s)
+[Tesseract][llama3] ➜ Счет (1.03s)
+
+Файл: Акт (2).pdf
+[EasyOCR][llama3] ➜ Акт (2.22s)
+[Tesseract][llama3] ➜ Акт (2.11s)
+
+Файл: Счет-фактура (35).pdf
+[EasyOCR][llama3] ➜ Счет-фактура (3.69s)
+[Tesseract][llama3] ➜ Универсальный Счет-фактура (UПD) (4.00s)
+
+Файл: Счета (2).pdf
+[EasyOCR][llama3] ➜ Счет (1.81s)
+[Tesseract][llama3] ➜ Счет (1.74s)
+
+Файл: Акт (3).pdf
+[EasyOCR][llama3] ➜ Акт (2.33s)
+[Tesseract][llama3] ➜ Акт (1.88s)
+
+Файл: Акт (19).pdf
+[EasyOCR][llama3] ➜ Акт (2.08s)
+[Tesseract][llama3] ➜ Акт (1.85s)
+
+Файл: Акт (26).pdf
+[EasyOCR][llama3] ➜ Акт (2.20s)
+[Tesseract][llama3] ➜ Акт (1.87s)
+
+Файл: Счет-фактура (40).pdf
+[EasyOCR][llama3] ➜ Счет-фактура (3.14s)
+[Tesseract][llama3] ➜ Акт (3.25s)
+
+Файл: Акт (32).pdf
+[EasyOCR][llama3] ➜ Акт (2.30s)
+[Tesseract][llama3] ➜ Акт (1.79s)
+
+Файл: Счета (25).pdf
+[EasyOCR][llama3] ➜ Счет (1.82s)
+[Tesseract][llama3] ➜ Счет (2.37s)
+
+Файл: Счет-фактура (22).pdf
+[EasyOCR][llama3] ➜ Счет-фактура (3.31s)
+[Tesseract][llama3] ➜ УПД (Universalный Передаточный Документ) (3.70s)
+
+Файл: Счета (1).pdf
+[EasyOCR][llama3] ➜ Счет (1.74s)
+[Tesseract][llama3] ➜ Счет (1.65s)
+
+Файл: Счета (17).pdf
+[EasyOCR][llama3] ➜ УПД (1.76s)
+[Tesseract][llama3] ➜ Счет (1.99s)
+
+Файл: Акт (24).pdf
+[EasyOCR][llama3] ➜ Акт (2.67s)
+[Tesseract][llama3] ➜ Акт (2.34s)
+
+Файл: Счет-фактура (37).pdf
+[EasyOCR][llama3] ➜ Счет-фактура (2.95s)
+[Tesseract][llama3] ➜ Счет-фактура (3.04s)
+
+Файл: Счет-фактура (27).pdf
+[EasyOCR][llama3] ➜ Счет-фактура (3.00s)
+[Tesseract][llama3] ➜ Счет-фактура (3.03s)
+
+Файл: Акт (5).pdf
+[EasyOCR][llama3] ➜ Акт (1.82s)
+[Tesseract][llama3] ➜ Акт (1.27s)
+
+Файл: Договор (40).pdf
+[EasyOCR][llama3] ➜ Договор (5.90s)
+[Tesseract][llama3] ➜ Договор (5.41s)
+
+Файл: Счета (29).pdf
+[EasyOCR][llama3] ➜ Акт (1.54s)
+[Tesseract][llama3] ➜ Акт (1.24s)
+
+Файл: Счета (49).pdf
+[EasyOCR][llama3] ➜ Счет (1.89s)
+[Tesseract][llama3] ➜ Счет (1.69s)
+
+Файл: Акт (42).pdf
+[EasyOCR][llama3] ➜ Акт (2.17s)
+[Tesseract][llama3] ➜ Акт (2.01s)
+
+Файл: Счета (23).pdf
+[EasyOCR][llama3] ➜ Счет (1.86s)
+[Tesseract][llama3] ➜ Счет (2.15s)
+
+Файл: Договор (27).pdf
+[EasyOCR][llama3] ➜ Акт (1.98s)
+[Tesseract][llama3] ➜ Акт (1.97s)
+
+Файл: Договор (43).pdf
+[EasyOCR][llama3] ➜ Договор (3.39s)
+[Tesseract][llama3] ➜ Договор (3.44s)
+
+Файл: Счет-фактура (15).pdf
+[EasyOCR][llama3] ➜ Счет-фактура (3.41s)
+[Tesseract][llama3] ➜ УПД (Universalnyi Predatocnyj Dokument) (3.48s)
+
+Файл: Договор (4).pdf
+[EasyOCR][llama3] ➜ Договор (4.58s)
+[Tesseract][llama3] ➜ Договор (4.23s)
+
+Файл: Счет-фактура (11).pdf
+[EasyOCR][llama3] ➜ Счет-фактура (3.13s)
+[Tesseract][llama3] ➜ Счет-фактура (3.14s)
+
+Файл: Договор (39).pdf
+[EasyOCR][llama3] ➜ Договор (4.13s)
+[Tesseract][llama3] ➜ Договор (4.01s)
+
+Файл: Акт (1).pdf
+[EasyOCR][llama3] ➜ Акт (2.31s)
+[Tesseract][llama3] ➜ Акт (1.99s)
+
+Файл: Счета (7).pdf
+[EasyOCR][llama3] ➜ Счет (2.19s)
+[Tesseract][llama3] ➜ Счет (1.88s)
+
+Файл: Договор (13).pdf
+[EasyOCR][llama3] ➜ Договор (4.23s)
+[Tesseract][llama3] ➜ Договор (3.90s)
+
+Файл: Счета (15).pdf
+[EasyOCR][llama3] ➜ Счет (1.86s)
+[Tesseract][llama3] ➜ Счет (1.58s)
+
+Файл: Договор (42).pdf
+[EasyOCR][llama3] ➜ Договор (4.96s)
+[Tesseract][llama3] ➜ Договор (4.74s)
+
+Файл: Договор (8).pdf
+[EasyOCR][llama3] ➜ Договор (6.43s)
+[Tesseract][llama3] ➜ Договор (5.92s)
+
+Файл: Акт (37).pdf
+[EasyOCR][llama3] ➜ Акт (2.19s)
+[Tesseract][llama3] ➜ Акт (1.80s)
+
+Файл: Договор (36).pdf
+[EasyOCR][llama3] ➜ Акт (3.16s)
+[Tesseract][llama3] ➜ АКТ (3.08s)
+
+Файл: Договор (45).pdf
+[EasyOCR][llama3] ➜ Договор (4.53s)
+[Tesseract][llama3] ➜ Договор (4.24s)
+
+Файл: Счет-фактура (34).pdf
+[EasyOCR][llama3] ➜ Счет-фактура (3.71s)
+[Tesseract][llama3] ➜ Счет-фактура (3.70s)
+
+Файл: Счета (36).pdf
+[EasyOCR][llama3] ➜ Счет (1.76s)
+[Tesseract][llama3] ➜ Счет (0.89s)
+
+Файл: Акт (36).pdf
+[EasyOCR][llama3] ➜ Акт (2.31s)
+[Tesseract][llama3] ➜ Акт (1.76s)
+
+Файл: Счета (50).pdf
+[EasyOCR][llama3] ➜ Счет (1.80s)
+[Tesseract][llama3] ➜ Счет (1.68s)
+
+Файл: Договор (6).pdf
+[EasyOCR][llama3] ➜ Договор (4.05s)
+[Tesseract][llama3] ➜ Договор (4.02s)
+
+Файл: Счет-фактура (10).pdf
+[EasyOCR][llama3] ➜ Счет-фактура (2.95s)
+[Tesseract][llama3] ➜ Счет-фактура (2.43s)
+
+Файл: Счет-фактура (42).pdf
+[EasyOCR][llama3] ➜ Счет-фактура (3.54s)
+[Tesseract][llama3] ➜ УПД (3.43s)
+
+Файл: Счета (13).pdf
+[EasyOCR][llama3] ➜ Счет (1.85s)
+[Tesseract][llama3] ➜ Счет (1.62s)
+
+Файл: Счет-фактура (33).pdf
+[EasyOCR][llama3] ➜ Счет-фактура (3.30s)
+[Tesseract][llama3] ➜ УПД (3.36s)
+
+Файл: Счет-фактура (18).pdf
+[EasyOCR][llama3] ➜ Счет-фактура (3.72s)
+[Tesseract][llama3] ➜ УПД (Universal Passage Document) (4.17s)
+
+Файл: Счет-фактура (1).pdf
+[EasyOCR][llama3] ➜ Счет-фактура (3.69s)
+[Tesseract][llama3] ➜ УПД (3.13s)
+
+Файл: Счет-фактура (32).pdf
+[EasyOCR][llama3] ➜ Счет-фактура (2.97s)
+[Tesseract][llama3] ➜ УПД (Universal Document of Proof) (3.45s)
+
+Файл: Счета (18).pdf
+[EasyOCR][llama3] ➜ Счет (1.85s)
+[Tesseract][llama3] ➜ Счет (3.69s)
+
+Файл: Договор (47).pdf
+[EasyOCR][llama3] ➜ Договор (4.25s)
+[Tesseract][llama3] ➜ Договор (4.19s)
+
+Файл: Акт (10).pdf
+[EasyOCR][llama3] ➜ Акт (1.71s)
+[Tesseract][llama3] ➜ Акт (1.32s)
+
+Файл: Счета (34).pdf
+[EasyOCR][llama3] ➜ Счет (2.00s)
+[Tesseract][llama3] ➜ Счет (1.10s)
+
+Файл: Акт (21).pdf
+[EasyOCR][llama3] ➜ Акт (1.68s)
+[Tesseract][llama3] ➜ Акт (1.16s)
+
+Файл: Договор (50).pdf
+[EasyOCR][llama3] ➜ Договор (4.14s)
+[Tesseract][llama3] ➜ Договор (4.48s)
+
+Файл: Договор (48).pdf
+[EasyOCR][llama3] ➜ Договор (3.27s)
+[Tesseract][llama3] ➜ Договор (3.06s)
+
+Файл: Договор (17).pdf
+[EasyOCR][llama3] ➜ Договор (4.47s)
+[Tesseract][llama3] ➜ Договор (4.30s)
+
+Файл: Договор (31).pdf
+[EasyOCR][llama3] ➜ Договор (5.51s)
+[Tesseract][llama3] ➜ Договор (4.84s)
+
+Файл: Акт (39).pdf
+[EasyOCR][llama3] ➜ Акт (2.70s)
+[Tesseract][llama3] ➜ Акт (2.91s)
+
+Файл: Акт (16).pdf
+[EasyOCR][llama3] ➜ Акт (2.27s)
+[Tesseract][llama3] ➜ Акт (2.02s)
+
+Файл: Счет-фактура (4).pdf
+[EasyOCR][llama3] ➜ Счет-фактура (4.27s)
+[Tesseract][llama3] ➜ Счет-фактура (4.06s)
+
+Файл: Счета (24).pdf
+[EasyOCR][llama3] ➜ Счет (1.78s)
+[Tesseract][llama3] ➜ Счет (2.13s)
+
+Файл: Счет-фактура (38).pdf
+[EasyOCR][llama3] ➜ Счет-фактура (3.41s)
+[Tesseract][llama3] ➜ УПД (3.65s)
+
+Файл: Договор (24).pdf
+[EasyOCR][llama3] ➜ Договор (4.11s)
+[Tesseract][llama3] ➜ Договор (4.15s)
+
+Файл: Счет-фактура (47).pdf
+[EasyOCR][llama3] ➜ Счет-фактура (3.23s)
+[Tesseract][llama3] ➜ УПД (Universal Передаточный Документ) (3.79s)
+
+Файл: Счета (46).pdf
+[EasyOCR][llama3] ➜ Счет (1.88s)
+[Tesseract][llama3] ➜ Счет (1.70s)
+
+Файл: Договор (16).pdf
+[EasyOCR][llama3] ➜ Договор (3.78s)
+[Tesseract][llama3] ➜ Договор (3.94s)
+
+Файл: Акт (23).pdf
+[EasyOCR][llama3] ➜ Акт (2.34s)
+[Tesseract][llama3] ➜ Акт (1.93s)
+
+Файл: Акт (9).pdf
+[EasyOCR][llama3] ➜ Акт (1.77s)
+[Tesseract][llama3] ➜ Акт (1.30s)
+
+Файл: Счета (40).pdf
+[EasyOCR][llama3] ➜ Счет-фактура (2.53s)
+[Tesseract][llama3] ➜ Счет (2.27s)
+
+Файл: Акт (47).pdf
+[EasyOCR][llama3] ➜ Акт (2.19s)
+[Tesseract][llama3] ➜ Акт (1.96s)
+
+Файл: Акт (41).pdf
+[EasyOCR][llama3] ➜ Акт (2.20s)
+[Tesseract][llama3] ➜ Акт (1.91s)
+
+Файл: Счет-фактура (25).pdf
+[EasyOCR][llama3] ➜ Счет-фактура (3.31s)
+[Tesseract][llama3] ➜ УПД (3.67s)
+
+Файл: Договор (2).pdf
+[EasyOCR][llama3] ➜ Договор (4.67s)
+[Tesseract][llama3] ➜ Договор (4.54s)
+
+Файл: Счет-фактура (3).pdf
+[EasyOCR][llama3] ➜ Счет-фактура (5.11s)
+[Tesseract][llama3] ➜ Счет-фактура (4.81s)
+
+Файл: Счет-фактура (36).pdf
+[EasyOCR][llama3] ➜ Счет-фактура (3.44s)
+[Tesseract][llama3] ➜ УПД (Universalnyi Predatocniy Dokument) (3.54s)
+
+Файл: Акт (48).pdf
+[EasyOCR][llama3] ➜ Акт (2.26s)
+[Tesseract][llama3] ➜ Акт (1.84s)
+
+Файл: Счет-фактура (17).pdf
+[EasyOCR][llama3] ➜ Счет-фактура (3.52s)
+[Tesseract][llama3] ➜ УПД (3.45s)
+
+Файл: Договор (15).pdf
+[EasyOCR][llama3] ➜ Договор (4.21s)
+[Tesseract][llama3] ➜ Договор (4.33s)
+
+Файл: Акт (13).pdf
+[EasyOCR][llama3] ➜ Акт (2.47s)
+[Tesseract][llama3] ➜ Акт (1.86s)
+
+Файл: Договор (7).pdf
+[EasyOCR][llama3] ➜ Договор (2.49s)
+[Tesseract][llama3] ➜ Договор (3.34s)
+
+Файл: Счет-фактура (19).pdf
+[EasyOCR][llama3] ➜ Счет-фактура (3.31s)
+[Tesseract][llama3] ➜ Счет-фактура (3.45s)
+
+Файл: Счет-фактура (6).pdf
+[EasyOCR][llama3] ➜ Счет-фактура (4.59s)
+[Tesseract][llama3] ➜ УПД (Universal Payment Document) (5.35s)
+
+Файл: Счет-фактура (23).pdf
+[EasyOCR][llama3] ➜ Счет-фактура (3.06s)
+[Tesseract][llama3] ➜ УПД (3.38s)
+
+Файл: Акт (18).pdf
+[EasyOCR][llama3] ➜ Акт (2.11s)
+[Tesseract][llama3] ➜ Акт (1.80s)
+
+Файл: Счета (26).pdf
+[EasyOCR][llama3] ➜ Счет (1.78s)
+[Tesseract][llama3] ➜ Счет (1.95s)
+
+Файл: Акт (17).pdf
+[EasyOCR][llama3] ➜ Акт (2.26s)
+[Tesseract][llama3] ➜ Акт (2.01s)
+
+Файл: Акт (11).pdf
+[EasyOCR][llama3] ➜ Акт (1.81s)
+[Tesseract][llama3] ➜ Акт (1.41s)
+
+Файл: Счета (6).pdf
+[EasyOCR][llama3] ➜ Счет (1.75s)
+[Tesseract][llama3] ➜ Счет (1.67s)
+
+Файл: Акт (40).pdf
+[EasyOCR][llama3] ➜ Акт (2.14s)
+[Tesseract][llama3] ➜ Акт (1.85s)
+
+Файл: Акт (44).pdf
+[EasyOCR][llama3] ➜ Акт (2.45s)
+[Tesseract][llama3] ➜ Акт (2.24s)
+
+Файл: Счет-фактура (44).pdf
+[EasyOCR][llama3] ➜ Счет-фактура (3.21s)
+[Tesseract][llama3] ➜ Счет-фактура (3.93s)
+
+Файл: Акт (30).pdf
+[EasyOCR][llama3] ➜ Акт (2.32s)
+[Tesseract][llama3] ➜ Акт (2.03s)
+
+Файл: Счет-фактура (48).pdf
+[EasyOCR][llama3] ➜ Счет-фактура (3.23s)
+[Tesseract][llama3] ➜ УПД (3.58s)
+
+Файл: Акт (28).pdf
+[EasyOCR][llama3] ➜ Акт (2.21s)
+[Tesseract][llama3] ➜ Акт (2.03s)
+
+Файл: Акт (33).pdf
+[EasyOCR][llama3] ➜ Акт (2.68s)
+[Tesseract][llama3] ➜ Акт (3.10s)
+
+Файл: Договор (35).pdf
+[EasyOCR][llama3] ➜ Договор (5.84s)
+[Tesseract][llama3] ➜ Договор (5.34s)
+
+Файл: Счет-фактура (20).pdf
+[EasyOCR][llama3] ➜ Счет-фактура (3.24s)
+[Tesseract][llama3] ➜ Счет-фактура (3.51s)
+
+Файл: Договор (25).pdf
+[EasyOCR][llama3] ➜ Договор (2.39s)
+[Tesseract][llama3] ➜ Договор (1.90s)
+
+Файл: Договор (30).pdf
+[EasyOCR][llama3] ➜ Договор (3.35s)
+[Tesseract][llama3] ➜ Договор (3.43s)
+
+Файл: Договор (9).pdf
+[EasyOCR][llama3] ➜ Договор (5.08s)
+[Tesseract][llama3] ➜ Договор (5.49s)
+
+Файл: Счет-фактура (28).pdf
+[EasyOCR][llama3] ➜ Счет-фактура (3.56s)
+[Tesseract][llama3] ➜ Счет-фактура (3.59s)
+
+Файл: Счет-фактура (41).pdf
+[EasyOCR][llama3] ➜ Счет-фактура (3.56s)
+[Tesseract][llama3] ➜ Счет-фактура (3.52s)
+
+Файл: Акт (49).pdf
+[EasyOCR][llama3] ➜ Акт (2.27s)
+[Tesseract][llama3] ➜ Акт (2.00s)
+
+Файл: Акт (35).pdf
+[EasyOCR][llama3] ➜ Акт (2.28s)
+[Tesseract][llama3] ➜ Акт (1.74s)
+
+Файл: Счет-фактура (39).pdf
+[EasyOCR][llama3] ➜ Счет-фактура (3.66s)
+[Tesseract][llama3] ➜ Счет-фактура (3.93s)
+
+Файл: Договор (18).pdf
+[EasyOCR][llama3] ➜ Договор (6.47s)
+[Tesseract][llama3] ➜ Договор (6.21s)
+
+Файл: Акт (50).pdf
+[EasyOCR][llama3] ➜ Акт (2.19s)
+[Tesseract][llama3] ➜ Акт (1.91s)
+
+Файл: Договор (11).pdf
+[EasyOCR][llama3] ➜ Договор (4.52s)
+[Tesseract][llama3] ➜ Договор (4.18s)
+
+Файл: Договор (29).pdf
+[EasyOCR][llama3] ➜ Договор (4.88s)
+[Tesseract][llama3] ➜ Договор (4.51s)
+
+Файл: Договор (1).pdf
+[EasyOCR][llama3] ➜ Договор (4.57s)
+[Tesseract][llama3] ➜ Договор (4.50s)
+
+Файл: Счета (45).pdf
+[EasyOCR][llama3] ➜ Счет (1.93s)
+[Tesseract][llama3] ➜ Счет (1.89s)
+
+Файл: Договор (20).pdf
+[EasyOCR][llama3] ➜ Акт (2.65s)
+[Tesseract][llama3] ➜ Акт (2.26s)
+
+Файл: Счета (43).pdf
+[EasyOCR][llama3] ➜ Счет (2.31s)
+[Tesseract][llama3] ➜ Счет (2.53s)
+
+Файл: Счета (10).pdf
+[EasyOCR][llama3] ➜ Счет (2.13s)
+[Tesseract][llama3] ➜ Счет-фактура (1.90s)
+
+Файл: Акт (27).pdf
+[EasyOCR][llama3] ➜ Акт (2.09s)
+[Tesseract][llama3] ➜ Акт (1.95s)
+
+Файл: Акт (15).pdf
+[EasyOCR][llama3] ➜ Акт (2.34s)
+[Tesseract][llama3] ➜ Акт (2.49s)
+
+Файл: Договор (14).pdf
+[EasyOCR][llama3] ➜ Договор (3.29s)
+[Tesseract][llama3] ➜ Договор (3.75s)
+
+Файл: Счет-фактура (8).pdf
+[EasyOCR][llama3] ➜ Счет-фактура (4.40s)
+[Tesseract][llama3] ➜ УПД (3.67s)
+
+Файл: Счета (14).pdf
+[EasyOCR][llama3] ➜ УПД (1.82s)
+[Tesseract][llama3] ➜ Счет (1.98s)

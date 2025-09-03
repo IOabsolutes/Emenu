@@ -1,0 +1,480 @@
+Файл: Акт_ (1).pdf
+[EasyOCR][llama3] ➜ Акт (2.21s)
+[EasyOCR][deepseek-llm] ➜ Акт (2.63s)
+[EasyOCR][deepseek-r1:7b] ➜ Акт (6.89s)
+[Tesseract][llama3] ➜ Акт (2.73s)
+[Tesseract][deepseek-llm] ➜ На основании текста документа, тип этого документа является "Акт сдачи-приемки услуг". (2.91s)
+[Tesseract][deepseek-r1:7b] ➜ Акт (7.47s)
+
+Файл: Акт_ (10).pdf
+[EasyOCR][llama3] ➜ Акт (2.55s)
+[EasyOCR][deepseek-llm] ➜ Акт сдачи-приемки услуг (2.65s)
+[EasyOCR][deepseek-r1:7b] ➜ Накладная (10.45s)
+[Tesseract][llama3] ➜ Акт (2.69s)
+[Tesseract][deepseek-llm] ➜ Счет-фактура (2.50s)
+[Tesseract][deepseek-r1:7b] ➜ Счет-фактура (9.26s)
+
+Файл: Акт_ (2).pdf
+[EasyOCR][llama3] ➜ Акт (2.89s)
+[EasyOCR][deepseek-llm] ➜ Накладная. (2.72s)
+[EasyOCR][deepseek-r1:7b] ➜ Платежное поручение (14.14s)
+[Tesseract][llama3] ➜ Акт (2.79s)
+[Tesseract][deepseek-llm] ➜ На основании текста документа, этот тип документа является корректировочным актом сдачи-приемки услуг. (3.09s)
+[Tesseract][deepseek-r1:7b] ➜ Акт (7.59s)
+
+Файл: Акт_ (3).pdf
+[EasyOCR][llama3] ➜ Акт (2.76s)
+[EasyOCR][deepseek-llm] ➜ Акт (2.51s)
+[EasyOCR][deepseek-r1:7b] ➜ Акт (8.61s)
+[Tesseract][llama3] ➜ Акт (2.42s)
+[Tesseract][deepseek-llm] ➜ На основании текста документа, тип этого документа является Актом о сдаче-приемаке услуг. (2.85s)
+[Tesseract][deepseek-r1:7b] ➜ Акт (8.60s)
+
+Файл: Акт_ (4).pdf
+[EasyOCR][llama3] ➜ Акт (2.78s)
+[EasyOCR][deepseek-llm] ➜ Акт (2.51s)
+[EasyOCR][deepseek-r1:7b] ➜ Акт (4.98s)
+[Tesseract][llama3] ➜ Акт (2.71s)
+[Tesseract][deepseek-llm] ➜ Счет (2.48s)
+[Tesseract][deepseek-r1:7b] ➜ Акт (6.68s)
+
+Файл: Акт_ (5).pdf
+[EasyOCR][llama3] ➜ Акт (2.75s)
+[EasyOCR][deepseek-llm] ➜ Акт сдачи-приемки услуг (2.62s)
+[EasyOCR][deepseek-r1:7b] ➜ Invoice (9.17s)
+[Tesseract][llama3] ➜ Акт (2.68s)
+[Tesseract][deepseek-llm] ➜ На основании текста документа возможно, что это Накладная. (2.70s)
+[Tesseract][deepseek-r1:7b] ➜ Акт (7.41s)
+
+Файл: Акт_ (6).pdf
+[EasyOCR][llama3] ➜ Акт (2.82s)
+[EasyOCR][deepseek-llm] ➜ Счет-фактура. (2.64s)
+[EasyOCR][deepseek-r1:7b] ➜ Акт (7.42s)
+[Tesseract][llama3] ➜ Акт. (2.77s)
+[Tesseract][deepseek-llm] ➜ Счет-фактура (2.58s)
+[Tesseract][deepseek-r1:7b] ➜ Акт (10.05s)
+
+Файл: Акт_ (7).pdf
+[EasyOCR][llama3] ➜ Акт (2.83s)
+[EasyOCR][deepseek-llm] ➜ Акт сдачи-#рненки услуг (2.70s)
+[EasyOCR][deepseek-r1:7b] ➜ Акт (10.44s)
+[Tesseract][llama3] ➜ Акт (2.68s)
+[Tesseract][deepseek-llm] ➜ На основании текста документа, этот тип документа - Акт. (2.70s)
+[Tesseract][deepseek-r1:7b] ➜ Накладная (10.40s)
+
+Файл: Акт_ (8).pdf
+[EasyOCR][llama3] ➜ Акт (2.55s)
+[EasyOCR][deepseek-llm] ➜ Акт сдачи-приемки услуг (2.67s)
+[EasyOCR][deepseek-r1:7b] ➜ Акт (6.37s)
+[Tesseract][llama3] ➜ Акт (2.75s)
+[Tesseract][deepseek-llm] ➜ Счетно-фактура (2.58s)
+[Tesseract][deepseek-r1:7b] ➜ Акт (7.47s)
+
+Файл: Акт_ (9).pdf
+[EasyOCR][llama3] ➜ Акт (2.76s)
+[EasyOCR][deepseek-llm] ➜ Акт сдачи-приемки услуг (2.63s)
+[EasyOCR][deepseek-r1:7b] ➜ Договор (9.42s)
+[Tesseract][llama3] ➜ Акт (2.69s)
+[Tesseract][deepseek-llm] ➜ Счет-фактура (2.52s)
+[Tesseract][deepseek-r1:7b] ➜ Акт (8.42s)
+
+Файл: Договор (1).pdf
+[EasyOCR][llama3] ➜ Документ - АКТ сдачи-приемки выполненных работ по договору (Договор Ng 660887 от 13.04.2020). (4.15s)
+[EasyOCR][deepseek-llm] ➜ Хорошо. (4.59s)
+[EasyOCR][deepseek-r1:7b] ➜ СИСТЕМА (6.57s)
+[Tesseract][llama3] ➜ Счётная ведомость (СВ) (3.73s)
+[Tesseract][deepseek-llm] ➜ ОК (4.56s)
+[Tesseract][deepseek-r1:7b] ➜ 20% (15.96s)
+
+Файл: Договор (10).pdf
+[EasyOCR][llama3] ➜ Договорная счета (Contract account) (3.69s)
+[EasyOCR][deepseek-llm] ➜ г (4.50s)
+[EasyOCR][deepseek-r1:7b] ➜ 143307 (30.76s)
+[Tesseract][llama3] ➜ Смета (3.59s)
+[Tesseract][deepseek-llm] ➜ Мен (4.50s)
+[Tesseract][deepseek-r1:7b] ➜ None (17.38s)
+
+Файл: Договор (2).pdf
+[EasyOCR][llama3] ➜ Документ - Протокол (Protocol) (3.40s)
+[EasyOCR][deepseek-llm] ➜ Все в порядке. (5.04s)
+[EasyOCR][deepseek-r1:7b] ➜ соглашение (9.91s)
+[Tesseract][llama3] ➜ Доклад. (3.60s)
+[Tesseract][deepseek-llm] ➜ ОК (5.00s)
+[Tesseract][deepseek-r1:7b] ➜ АКТ № (9.44s)
+
+Файл: Договор (3).pdf
+[EasyOCR][llama3] ➜ ПРОектный документ (Project document) (3.66s)
+[EasyOCR][deepseek-llm] ➜ к (4.97s)
+[EasyOCR][deepseek-r1:7b] ➜ НДС (5.44s)
+[Tesseract][llama3] ➜ Договор (3.30s)
+[Tesseract][deepseek-llm] ➜ проектировщик (5.14s)
+[Tesseract][deepseek-r1:7b] ➜ Аванс (15.67s)
+
+Файл: Договор (4).pdf
+[EasyOCR][llama3] ➜ Заявление на оплату (Statement of Payment) (3.69s)
+[EasyOCR][deepseek-llm] ➜ 5 (4.95s)
+[EasyOCR][deepseek-r1:7b] ➜ $\boxed{8563.43}$ (29.87s)
+[Tesseract][llama3] ➜ Договор (3.55s)
+[Tesseract][deepseek-llm] ➜ Все правильно. (5.14s)
+[Tesseract][deepseek-r1:7b] ➜ executor (8.77s)
+
+Файл: Договор (5).pdf
+[EasyOCR][llama3] ➜ Договор (3.02s)
+[EasyOCR][deepseek-llm] ➜ Договор (3.44s)
+[EasyOCR][deepseek-r1:7b] ➜ Договор (7.54s)
+[Tesseract][llama3] ➜ Договор (3.19s)
+[Tesseract][deepseek-llm] ➜ дело (3.34s)
+[Tesseract][deepseek-r1:7b] ➜ Договор (7.84s)
+
+Файл: Договор (6).pdf
+[EasyOCR][llama3] ➜ Декларация доходов и расходов (Бухгалтерский отчёт) (3.82s)
+[EasyOCR][deepseek-llm] ➜ ПРОЕКТИВА (5.38s)
+[EasyOCR][deepseek-r1:7b] ➜ binomial (30.08s)
+[Tesseract][llama3] ➜ Документ - договор (CONTRACT). (3.65s)
+[Tesseract][deepseek-llm] ➜ от (4.76s)
+[Tesseract][deepseek-r1:7b] ➜ Answer: Состав work related to nature conservation (11.47s)
+
+Файл: Договор (7).pdf
+[EasyOCR][llama3] ➜ Договор (3.30s)
+[EasyOCR][deepseek-llm] ➜ ндс (5.04s)
+[EasyOCR][deepseek-r1:7b] ➜ 380 532,67 руб (7.29s)
+[Tesseract][llama3] ➜ Уведомление (3.56s)
+[Tesseract][deepseek-llm] ➜ нп (5.02s)
+[Tesseract][deepseek-r1:7b] ➜ 380532,67 (7.97s)
+
+Файл: Договор (8).pdf
+[EasyOCR][llama3] ➜ Смета (3.55s)
+[EasyOCR][deepseek-llm] ➜ ЮБ (5.03s)
+[EasyOCR][deepseek-r1:7b] ➜ Нет (13.93s)
+[Tesseract][llama3] ➜ Смета (Budget) (3.60s)
+[Tesseract][deepseek-llm] ➜ ОК (4.98s)
+[Tesseract][deepseek-r1:7b] ➜ 24 (15.68s)
+
+Файл: Договор (9).pdf
+[EasyOCR][llama3] ➜ Договор о стоимости работ. (3.38s)
+[EasyOCR][deepseek-llm] ➜ ГУП (5.04s)
+[EasyOCR][deepseek-r1:7b] ➜ про-protocol (9.22s)
+[Tesseract][llama3] ➜ Документ - Расчет стоимости (РАСЧЕТ СТОИМОСТИ) (3.82s)
+[Tesseract][deepseek-llm] ➜ НЕТ (5.02s)
+[Tesseract][deepseek-r1:7b] ➜ Да (12.71s)
+
+Файл: Накладные (1).pdf
+[EasyOCR][llama3] ➜ Товарно-отгрузочный документ (ТОРД) (3.73s)
+[EasyOCR][deepseek-llm] ➜ 4 (4.73s)
+[EasyOCR][deepseek-r1:7b] ➜ Анализ наименования товара (9.07s)
+[Tesseract][llama3] ➜ Товарное обязательство (invoice) (3.37s)
+[Tesseract][deepseek-llm] ➜ Счет-фактура. (4.68s)
+[Tesseract][deepseek-r1:7b] ➜ typing (7.11s)
+
+Файл: Накладные (10).pdf
+[EasyOCR][llama3] ➜ Транспортная накладная (3.31s)
+[EasyOCR][deepseek-llm] ➜ Текст документа транспортная накладная. (3.66s)
+[EasyOCR][deepseek-r1:7b] ➜ Счет-фактура (7.62s)
+[Tesseract][llama3] ➜ Накладная (3.09s)
+[Tesseract][deepseek-llm] ➜ Счет-фактура. (3.34s)
+[Tesseract][deepseek-r1:7b] ➜ Накладная (7.54s)
+
+Файл: Накладные (2).pdf
+[EasyOCR][llama3] ➜ Товарная накладная (3.34s)
+[EasyOCR][deepseek-llm] ➜ Тип документа - Транспортная накладная. (3.69s)
+[EasyOCR][deepseek-r1:7b] ➜ Nakal' (8.33s)
+[Tesseract][llama3] ➜ Товарная накладная (Накладная) (3.21s)
+[Tesseract][deepseek-llm] ➜ Договор (3.15s)
+[Tesseract][deepseek-r1:7b] ➜ Накладная (9.59s)
+
+Файл: Накладные (3).pdf
+[EasyOCR][llama3] ➜ Товарная накладная (Накладная) (3.42s)
+[EasyOCR][deepseek-llm] ➜ Счет-фактура. (3.49s)
+[EasyOCR][deepseek-r1:7b] ➜ Бил (7.41s)
+[Tesseract][llama3] ➜ Транспортная накладная (3.14s)
+[Tesseract][deepseek-llm] ➜ Счет-фактура (3.25s)
+[Tesseract][deepseek-r1:7b] ➜ Акт (9.83s)
+
+Файл: Накладные (4).pdf
+[EasyOCR][llama3] ➜ Транспортная накладная (3.37s)
+[EasyOCR][deepseek-llm] ➜ Тип документа товарная накладная. (3.48s)
+[EasyOCR][deepseek-r1:7b] ➜ voucher (16.49s)
+[Tesseract][llama3] ➜ Накладная (2.82s)
+[Tesseract][deepseek-llm] ➜ Накладная. (3.23s)
+[Tesseract][deepseek-r1:7b] ➜ Счет-фактура (11.81s)
+
+Файл: Накладные (5).pdf
+[EasyOCR][llama3] ➜ Транспортная накладная (3.44s)
+[EasyOCR][deepseek-llm] ➜ Платежное поручение. (3.70s)
+[EasyOCR][deepseek-r1:7b] ➜ Товарная накладная (8.79s)
+[Tesseract][llama3] ➜ Накладная (3.12s)
+[Tesseract][deepseek-llm] ➜ Товароведная накладная (3.42s)
+[Tesseract][deepseek-r1:7b] ➜ Накладная (10.53s)
+
+Файл: Накладные (6).pdf
+[EasyOCR][llama3] ➜ Товарная накладная (Накладная) (3.37s)
+[EasyOCR][deepseek-llm] ➜ Тип документа - транспортная накладная. (3.64s)
+[EasyOCR][deepseek-r1:7b] ➜ Накладная отчетность за товары (11.66s)
+[Tesseract][llama3] ➜ Накладная (3.07s)
+[Tesseract][deepseek-llm] ➜ договор (3.13s)
+[Tesseract][deepseek-r1:7b] ➜ Товарная накладная (11.45s)
+
+Файл: Накладные (7).pdf
+[EasyOCR][llama3] ➜ Транспортная накладная (Накладная) (3.15s)
+[EasyOCR][deepseek-llm] ➜ Тип документа - Накладная. (3.58s)
+[EasyOCR][deepseek-r1:7b] ➜ Товарная накладная (10.08s)
+[Tesseract][llama3] ➜ Накладная (3.14s)
+[Tesseract][deepseek-llm] ➜ Счет (3.26s)
+[Tesseract][deepseek-r1:7b] ➜ Накладная (9.51s)
+
+Файл: Накладные (8).pdf
+[EasyOCR][llama3] ➜ Накладная (3.01s)
+[EasyOCR][deepseek-llm] ➜ Тип документа - Накладная. (3.55s)
+[EasyOCR][deepseek-r1:7b] ➜ Счет-фактура (6.00s)
+[Tesseract][llama3] ➜ Накладная (2.86s)
+[Tesseract][deepseek-llm] ➜ Счет-фактура (3.31s)
+[Tesseract][deepseek-r1:7b] ➜ Счет-договор (8.81s)
+
+Файл: Накладные (9).pdf
+[EasyOCR][llama3] ➜ Накладная (3.23s)
+[EasyOCR][deepseek-llm] ➜ Это бумажная транспортная накладная для однократного хранения информации об операции по отгрузке грузов с использованием документов вида B/L и содержащейся в ней информация, необходимая для ведения учёта и ассигнований товаров. (5.83s)
+[EasyOCR][deepseek-r1:7b] ➜ Накладная (9.75s)
+[Tesseract][llama3] ➜ Накладная (Transportation note) (3.17s)
+[Tesseract][deepseek-llm] ➜ Платежное поручение. (3.32s)
+[Tesseract][deepseek-r1:7b] ➜ Накладная (11.74s)
+
+Файл: Платежные поручения (1).pdf
+[EasyOCR][llama3] ➜ Платежное поручение (2.45s)
+[EasyOCR][deepseek-llm] ➜ Платежное поручение (2.73s)
+[EasyOCR][deepseek-r1:7b] ➜ Платежное поручение (8.89s)
+[Tesseract][llama3] ➜ Платежное поручение (2.70s)
+[Tesseract][deepseek-llm] ➜ Платежное поручение № 522 (2.86s)
+[Tesseract][deepseek-r1:7b] ➜ Платежное поручение (7.27s)
+
+Файл: Платежные поручения (10).pdf
+[EasyOCR][llama3] ➜ Платежное поручение (2.74s)
+[EasyOCR][deepseek-llm] ➜ Накладная (2.60s)
+[EasyOCR][deepseek-r1:7b] ➜ Платежное поручение (8.58s)
+[Tesseract][llama3] ➜ Платежное поручение (2.70s)
+[Tesseract][deepseek-llm] ➜ Платежное поручение № 508 (2.92s)
+[Tesseract][deepseek-r1:7b] ➜ Платежное поручение (7.72s)
+
+Файл: Платежные поручения (2).pdf
+[EasyOCR][llama3] ➜ Платежное поручение (2.48s)
+[EasyOCR][deepseek-llm] ➜ Счет (2.56s)
+[EasyOCR][deepseek-r1:7b] ➜ Платежное поручение (12.28s)
+[Tesseract][llama3] ➜ Платежное поручение (2.70s)
+[Tesseract][deepseek-llm] ➜ Платежное поручение № 521 от 30.09.2013 на счет-факрутку ООО "ГорКапСтрой" за товар и услуги предоставленные им ОАО "БАНК МОСКВЫ". (4.64s)
+[Tesseract][deepseek-r1:7b] ➜ Платежное поручение (10.33s)
+
+Файл: Платежные поручения (3).pdf
+[EasyOCR][llama3] ➜ Платежное поручение (2.74s)
+[EasyOCR][deepseek-llm] ➜ Счетное поручение (2.71s)
+[EasyOCR][deepseek-r1:7b] ➜ платежное поручение (8.29s)
+[Tesseract][llama3] ➜ Платежное поручение (2.73s)
+[Tesseract][deepseek-llm] ➜ Счет-фактура (2.68s)
+[Tesseract][deepseek-r1:7b] ➜ Платежное поручение (9.43s)
+
+Файл: Платежные поручения (4).pdf
+[EasyOCR][llama3] ➜ Платежное поручение (2.72s)
+[EasyOCR][deepseek-llm] ➜ Платежное поручение (2.68s)
+[EasyOCR][deepseek-r1:7b] ➜ Платежное поручение (7.88s)
+[Tesseract][llama3] ➜ Платежное поручение (2.69s)
+[Tesseract][deepseek-llm] ➜ Счет-фактура (2.65s)
+[Tesseract][deepseek-r1:7b] ➜ Платежное поручение (8.12s)
+
+Файл: Платежные поручения (5).pdf
+[EasyOCR][llama3] ➜ Платежное поручение (2.77s)
+[EasyOCR][deepseek-llm] ➜ Счетное (2.62s)
+[EasyOCR][deepseek-r1:7b] ➜ Платежное поручение (13.13s)
+[Tesseract][llama3] ➜ Платежное поручение (2.73s)
+[Tesseract][deepseek-llm] ➜ Платежное поручение №509 (2.86s)
+[Tesseract][deepseek-r1:7b] ➜ Платежное поручение (13.48s)
+
+Файл: Платежные поручения (6).pdf
+[EasyOCR][llama3] ➜ Платежное поручение (2.49s)
+[EasyOCR][deepseek-llm] ➜ Счет-фактура (2.49s)
+[EasyOCR][deepseek-r1:7b] ➜ Платежное поручение (7.17s)
+[Tesseract][llama3] ➜ Платежное поручение (2.70s)
+[Tesseract][deepseek-llm] ➜ Платежное поручение №512 (2.84s)
+[Tesseract][deepseek-r1:7b] ➜ Платежное поручение (10.73s)
+
+Файл: Платежные поручения (7).pdf
+[EasyOCR][llama3] ➜ Платежное поручение (2.78s)
+[EasyOCR][deepseek-llm] ➜ Счет-фактура (2.69s)
+[EasyOCR][deepseek-r1:7b] ➜ Платежное поручение (14.73s)
+[Tesseract][llama3] ➜ Платежное поручение (2.71s)
+[Tesseract][deepseek-llm] ➜ Накладная (2.58s)
+[Tesseract][deepseek-r1:7b] ➜ платежное поручение (7.71s)
+
+Файл: Платежные поручения (8).pdf
+[EasyOCR][llama3] ➜ Платежное поручение (2.70s)
+[EasyOCR][deepseek-llm] ➜ Счет-фактура (2.65s)
+[EasyOCR][deepseek-r1:7b] ➜ Платежное поручение (9.78s)
+[Tesseract][llama3] ➜ Платежное поручение (2.70s)
+[Tesseract][deepseek-llm] ➜ Накладная. (2.61s)
+[Tesseract][deepseek-r1:7b] ➜ Платежное поручение (11.73s)
+
+Файл: Платежные поручения (9).pdf
+[EasyOCR][llama3] ➜ Платежное поручение (2.47s)
+[EasyOCR][deepseek-llm] ➜ Платежное поручение (2.70s)
+[EasyOCR][deepseek-r1:7b] ➜ Платежное поручение (7.79s)
+[Tesseract][llama3] ➜ Платежное поручение (2.70s)
+[Tesseract][deepseek-llm] ➜ Платежное поручение № 513 30092013 (3.15s)
+[Tesseract][deepseek-r1:7b] ➜ Платежное поручение (8.14s)
+
+Файл: Счета (1).pdf
+[EasyOCR][llama3] ➜ Акт (2.62s)
+[EasyOCR][deepseek-llm] ➜ Платежное поручение (2.99s)
+[EasyOCR][deepseek-r1:7b] ➜ Платежное поручение (9.20s)
+[Tesseract][llama3] ➜ Акт (2.72s)
+[Tesseract][deepseek-llm] ➜ Счет-фактура (2.73s)
+[Tesseract][deepseek-r1:7b] ➜ Платежное поручение (10.05s)
+
+Файл: Счета (10).pdf
+[EasyOCR][llama3] ➜ Счет-фактура (2.80s)
+[EasyOCR][deepseek-llm] ➜ Счет (2.67s)
+[EasyOCR][deepseek-r1:7b] ➜ Накладная (8.34s)
+[Tesseract][llama3] ➜ Счет-фактура (2.78s)
+[Tesseract][deepseek-llm] ➜ Счет-фактура (2.77s)
+[Tesseract][deepseek-r1:7b] ➜ Счет-фактура (10.02s)
+
+Файл: Счета (2).pdf
+[EasyOCR][llama3] ➜ Акт (2.91s)
+[EasyOCR][deepseek-llm] ➜ Счет-фактура. (3.02s)
+[EasyOCR][deepseek-r1:7b] ➜ Платежное поручение (8.26s)
+[Tesseract][llama3] ➜ Платежное поручение (2.83s)
+[Tesseract][deepseek-llm] ➜ Платежное поручение (2.82s)
+[Tesseract][deepseek-r1:7b] ➜ Платежное поручение (8.43s)
+
+Файл: Счета (3).pdf
+[EasyOCR][llama3] ➜ Акт (2.64s)
+[EasyOCR][deepseek-llm] ➜ Платежное поручение (3.02s)
+[EasyOCR][deepseek-r1:7b] ➜ Invoice (9.14s)
+[Tesseract][llama3] ➜ Платежное поручение (2.88s)
+[Tesseract][deepseek-llm] ➜ Платежное поручение (2.92s)
+[Tesseract][deepseek-r1:7b] ➜ Платежное поручение (7.60s)
+
+Файл: Счета (4).pdf
+[EasyOCR][llama3] ➜ Акт (2.86s)
+[EasyOCR][deepseek-llm] ➜ Платежное поручение (2.95s)
+[EasyOCR][deepseek-r1:7b] ➜ Платежное поручение (7.79s)
+[Tesseract][llama3] ➜ Акт (2.77s)
+[Tesseract][deepseek-llm] ➜ Платежное поручение (2.84s)
+[Tesseract][deepseek-r1:7b] ➜ Платежное поручение (6.86s)
+
+Файл: Счета (5).pdf
+[EasyOCR][llama3] ➜ Счет (2.75s)
+[EasyOCR][deepseek-llm] ➜ Счет-фактура (2.79s)
+[EasyOCR][deepseek-r1:7b] ➜ Счет-фактура (11.20s)
+[Tesseract][llama3] ➜ Счет (2.69s)
+[Tesseract][deepseek-llm] ➜ Накладная. (2.71s)
+[Tesseract][deepseek-r1:7b] ➜ Платежное поручение (7.31s)
+
+Файл: Счета (6).pdf
+[EasyOCR][llama3] ➜ Счет (2.73s)
+[EasyOCR][deepseek-llm] ➜ Счет (2.67s)
+[EasyOCR][deepseek-r1:7b] ➜ Счет-фактура (5.86s)
+[Tesseract][llama3] ➜ Счет-фактура (2.73s)
+[Tesseract][deepseek-llm] ➜ Счет-фактура (2.72s)
+[Tesseract][deepseek-r1:7b] ➜ Платежное поручение (11.95s)
+
+Файл: Счета (7).pdf
+[EasyOCR][llama3] ➜ Счет (2.51s)
+[EasyOCR][deepseek-llm] ➜ Счет (2.70s)
+[EasyOCR][deepseek-r1:7b] ➜ Платежное поручение (12.19s)
+[Tesseract][llama3] ➜ Счет-фактура (2.74s)
+[Tesseract][deepseek-llm] ➜ Накладная (2.70s)
+[Tesseract][deepseek-r1:7b] ➜ Нakладная (9.70s)
+
+Файл: Счета (8).pdf
+[EasyOCR][llama3] ➜ Узелная накладная (Товарная накладная) (3.49s)
+[EasyOCR][deepseek-llm] ➜ тип документа: Накладная (4.26s)
+[EasyOCR][deepseek-r1:7b] ➜ бухгалтер (12.27s)
+[Tesseract][llama3] ➜ Счет-фактура (3.45s)
+[Tesseract][deepseek-llm] ➜ поставка товара (3.73s)
+[Tesseract][deepseek-r1:7b] ➜ nakladna (8.55s)
+
+Файл: Счета (9).pdf
+[EasyOCR][llama3] ➜ Счет (3.01s)
+[EasyOCR][deepseek-llm] ➜ Накладная. (3.21s)
+[EasyOCR][deepseek-r1:7b] ➜ Счет-фактура (13.86s)
+[Tesseract][llama3] ➜ Счет (2.96s)
+[Tesseract][deepseek-llm] ➜ Документ счет-фактура. (3.25s)
+[Tesseract][deepseek-r1:7b] ➜ factura (19.81s)
+
+Файл: Счета-факутры (1).pdf
+[EasyOCR][llama3] ➜ Счётка (3.59s)
+[EasyOCR][deepseek-llm] ➜ Счефактура (3.92s)
+[EasyOCR][deepseek-r1:7b] ➜ Андрюшина Е. (8.26s)
+[Tesseract][llama3] ➜ Счет-фактура (3.45s)
+[Tesseract][deepseek-llm] ➜ субдоктурными поручениями (3.99s)
+[Tesseract][deepseek-r1:7b] ➜ officer's purchase order (8.60s)
+
+Файл: Счета-факутры (10).pdf
+[EasyOCR][llama3] ➜ Транспортная накладная. (3.65s)
+[EasyOCR][deepseek-llm] ➜ товар (4.05s)
+[EasyOCR][deepseek-r1:7b] ➜ ВЕРНО (10.17s)
+[Tesseract][llama3] ➜ Акт (3.48s)
+[Tesseract][deepseek-llm] ➜ Счет-фактура (3.94s)
+[Tesseract][deepseek-r1:7b] ➜ Неоплата (12.35s)
+
+Файл: Счета-факутры (2).pdf
+[EasyOCR][llama3] ➜ Учетная ведомость (УВ) (3.67s)
+[EasyOCR][deepseek-llm] ➜ УНД (5.06s)
+[EasyOCR][deepseek-r1:7b] ➜ Ответь (7.94s)
+[Tesseract][llama3] ➜ Учетная запись (Financial Report) (3.65s)
+[Tesseract][deepseek-llm] ➜ УТ-00001417 2 (5.32s)
+[Tesseract][deepseek-r1:7b] ➜ Документ (12.33s)
+
+Файл: Счета-факутры (3).pdf
+[EasyOCR][llama3] ➜ Платёжный поручение (3.63s)
+[EasyOCR][deepseek-llm] ➜ банк (5.00s)
+[EasyOCR][deepseek-r1:7b] ➜ 4560 (9.51s)
+[Tesseract][llama3] ➜ 1. Счет фиксированный (invoice) (3.70s)
+[Tesseract][deepseek-llm] ➜ НЕДС (5.07s)
+[Tesseract][deepseek-r1:7b] ➜ Да (6.65s)
+
+Файл: Счета-факутры (4).pdf
+[EasyOCR][llama3] ➜ Документ - Счет на оплату (Invoice). (3.68s)
+[EasyOCR][deepseek-llm] ➜ Подтверждение (5.06s)
+[EasyOCR][deepseek-r1:7b] ➜ условия (6.31s)
+[Tesseract][llama3] ➜ Документ - счет (invoice). (3.62s)
+[Tesseract][deepseek-llm] ➜ Все (4.98s)
+[Tesseract][deepseek-r1:7b] ➜ license (9.32s)
+
+Файл: Счета-факутры (5).pdf
+[EasyOCR][llama3] ➜ Счет (3.26s)
+[EasyOCR][deepseek-llm] ➜ Всеоткрытый (4.60s)
+[EasyOCR][deepseek-r1:7b] ➜ откуда (10.30s)
+[Tesseract][llama3] ➜ Счета (Invoice) (3.60s)
+[Tesseract][deepseek-llm] ➜ ОК (4.34s)
+[Tesseract][deepseek-r1:7b] ➜ I'm unable to provide a response as the necessary context or complete details were not included in your request. (6.67s)
+
+Файл: Счета-факутры (6).pdf
+[EasyOCR][llama3] ➜ Паспорт электронной подписи. (3.46s)
+[EasyOCR][deepseek-llm] ➜ Нет (4.97s)
+[EasyOCR][deepseek-r1:7b] ➜ Да (7.26s)
+[Tesseract][llama3] ➜ Повестка (Resolution of Certificate of Compliance) (3.68s)
+[Tesseract][deepseek-llm] ➜ Все (5.02s)
+[Tesseract][deepseek-r1:7b] ➜ Электронная подпись (7.52s)
+
+Файл: Счета-факутры (7).pdf
+[EasyOCR][llama3] ➜ Счет-фактура (3.48s)
+[EasyOCR][deepseek-llm] ➜ Счет-фактура. (3.73s)
+[EasyOCR][deepseek-r1:7b] ➜ bill of lading (9.10s)
+[Tesseract][llama3] ➜ Счет-фактура (3.30s)
+[Tesseract][deepseek-llm] ➜ Счет-фактура. (3.44s)
+[Tesseract][deepseek-r1:7b] ➜ Счет-фактура (10.34s)
+
+Файл: Счета-факутры (8).pdf
+[EasyOCR][llama3] ➜ Документ - Платежка (Payable) (3.69s)
+[EasyOCR][deepseek-llm] ➜ нет (4.95s)
+[EasyOCR][deepseek-r1:7b] ➜ **Answer: Н** (43.01s)
+[Tesseract][llama3] ➜ Документ - контракт (соглашение) на поставку товаров. (3.80s)
+[Tesseract][deepseek-llm] ➜ Директор "Технико-экономического анализа и маркетинга" ООО «АГБар» (16.20s)
+[Tesseract][deepseek-r1:7b] ➜ 4440000 (19.67s)
+
+Файл: Счета-факутры (9).pdf
+[EasyOCR][llama3] ➜ Документ - счет-фактура. (3.63s)
+[EasyOCR][deepseek-llm] ➜ Всенощные. (5.15s)
+[EasyOCR][deepseek-r1:7b] ➜ Code (23.92s)
+[Tesseract][llama3] ➜ Торговый расчётный счет (ТРС) (3.74s)
+[Tesseract][deepseek-llm] ➜ ОК (5.00s)
+[Tesseract][deepseek-r1:7b] ➜ акцепт (7.10s)
+

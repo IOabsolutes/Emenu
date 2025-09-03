@@ -1,0 +1,12 @@
+services:
+  web:
+    build: .
+    container_name: menu_parser
+    ports:
+      - "8001:8000"
+    volumes:
+      - .:/app
+    environment:
+      - USE_GPU=True
+    gpus: all
+    restart: always

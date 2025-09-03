@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Документ-анализатор</title>
+</head>
+<body>
+  <h1>Анализ PDF-документа</h1>
+  <form id="upload-form" enctype="multipart/form-data">
+    <input type="file" name="file" accept="application/pdf" required>
+    <button type="submit">Загрузить и проанализировать</button>
+  </form>
+  <div id="result"></div>
+
+  <script>
+    const form = document.getElementById("upload-form");
+    const result = document.getElementById("result");
+
+    form.addEventListener("submit", async (e) => {
+      e.preventDefault();
+      const formData = new FormData(form);
+      result.innerHTML = "⏳ Обработка...";
+
+      const response = await fetch("/analyze", {
+        method: "POST",
+        body: formData
+      });
+
+      const data = await response.json();
+      if (data.status === "ok") {
+        const json = JSON.stringify(data.result, null, 2)
+          .replace(/</g, "&lt;")
+          .replace(/>/g, "&gt;");
+
+        result.innerHTML = `
+          ✅ Готово! <a href="${data.download}" target="_blank">Скачать JSON</a><br><br>
+          <strong>Результат:</strong>
+          <pre style="background:#f8f8f8;padding:10px;border:1px solid #ccc;">${json}</pre>
+        `;
+      } else {
+        result.innerHTML = "❌ Ошибка при обработке.";
+      }
+    });
+  </script>

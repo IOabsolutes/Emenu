@@ -1,0 +1,42 @@
+Отчет по извлечению номера и даты документа
+
+Файл: Договор (13).pdf
+[EasyOCR][llama3] (1.28s) ➜ {
+"number": "Ng 105",
+"date": "2016-04-28"
+}
+[Tesseract][llama3] (1.09s) ➜ {
+"number": "KT103495",
+"date": "2016-04-28"
+}
+
+Файл: Счета (24).pdf
+[EasyOCR][llama3] (0.64s) ➜ {
+"number": "90Q",
+"date": "2022-05-31"
+}
+[Tesseract][llama3] (0.65s) ➜ {
+"number": "СЧЕТ № 2089",
+"date": "2022-05-31"
+}
+
+Файл: Акт (1).pdf
+[EasyOCR][llama3] (0.84s) ➜ {
+"number": "Ng 5505305074",
+"date": "2021-05-31"
+}
+[Tesseract][llama3] (0.73s) ➜ {
+"number": "5505305074",
+"date": "2021-05-31"
+}
+
+Файл: Счет-фактура (25).pdf
+[EasyOCR][llama3] (1.14s) ➜ {
+"number": "Ng MMB-2O-3/96@",
+"date": "2024-05-07"
+}
+[Tesseract][llama3] (0.93s) ➜ {
+"number": "90462175",
+"date": "2024-05-07"
+}
+

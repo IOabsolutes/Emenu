@@ -1,0 +1,80 @@
+Файл: 2025012720255205015.pdf
+[EasyOCR][llama3] ➜ Счет (2.66s)
+[EasyOCR][deepseek-llm] ➜ Счет-фактура (2.46s)
+[EasyOCR][deepseek-r1:7b] ➜ Счет-фактура (11.07s)
+[Tesseract][llama3] ➜ Счет (2.61s)
+[Tesseract][deepseek-llm] ➜ Счет-фактура (2.39s)
+[Tesseract][deepseek-r1:7b] ➜ Счет (7.27s)
+
+Файл: 2025012911511507753.pdf
+[EasyOCR][llama3] ➜ Счет-фактура (2.69s)
+[EasyOCR][deepseek-llm] ➜ Счет (2.40s)
+[EasyOCR][deepseek-r1:7b] ➜ Счет-фактура (9.56s)
+[Tesseract][llama3] ➜ Счет-фактура (2.64s)
+[Tesseract][deepseek-llm] ➜ Договор (2.34s)
+[Tesseract][deepseek-r1:7b] ➜ Счет-фактура (6.61s)
+
+Файл: 2025012911512407774.pdf
+[EasyOCR][llama3] ➜ Счет-фактура (2.71s)
+[EasyOCR][deepseek-llm] ➜ Договор (2.39s)
+[EasyOCR][deepseek-r1:7b] ➜ Счет-фактура (9.69s)
+[Tesseract][llama3] ➜ Счет-фактура (2.65s)
+[Tesseract][deepseek-llm] ➜ Счет-фактура (2.38s)
+[Tesseract][deepseek-r1:7b] ➜ УПД (8.74s)
+
+Файл: KS009171.pdf
+[EasyOCR][llama3] ➜ Счет (2.55s)
+[EasyOCR][deepseek-llm] ➜ Счет (2.59s)
+[EasyOCR][deepseek-r1:7b] ➜ Count (6.62s)
+[Tesseract][llama3] ➜ Счет (2.72s)
+[Tesseract][deepseek-llm] ➜ УПД (2.51s)
+[Tesseract][deepseek-r1:7b] ➜ Счет-фактура (7.84s)
+
+Файл: KS009279.pdf
+[EasyOCR][llama3] ➜ Счет-фактура (3.09s)
+[EasyOCR][deepseek-llm] ➜ счет (2.90s)
+[EasyOCR][deepseek-r1:7b] ➜ Акт (8.33s)
+[Tesseract][llama3] ➜ Счет (2.94s)
+[Tesseract][deepseek-llm] ➜ Счет (2.80s)
+[Tesseract][deepseek-r1:7b] ➜ Счет-фактура (9.16s)
+
+Файл: KS009361.pdf
+[EasyOCR][llama3] ➜ Счет (2.86s)
+[EasyOCR][deepseek-llm] ➜ Счет (2.68s)
+[EasyOCR][deepseek-r1:7b] ➜ Счет-фактура (9.26s)
+[Tesseract][llama3] ➜ Счет (2.83s)
+[Tesseract][deepseek-llm] ➜ Счет (2.67s)
+[Tesseract][deepseek-r1:7b] ➜ Счет-фактура (8.32s)
+
+Файл: KS009401.pdf
+[EasyOCR][llama3] ➜ Счет (2.93s)
+[EasyOCR][deepseek-llm] ➜ Счет (2.80s)
+[EasyOCR][deepseek-r1:7b] ➜ Счет-фактура (12.10s)
+[Tesseract][llama3] ➜ Счет (2.90s)
+[Tesseract][deepseek-llm] ➜ Счет (2.77s)
+[Tesseract][deepseek-r1:7b] ➜ СЧЁТ-ФАКТУРА (7.16s)
+
+Файл: KS009435.pdf
+[EasyOCR][llama3] ➜ Счет (2.95s)
+[EasyOCR][deepseek-llm] ➜ Счет (2.85s)
+[EasyOCR][deepseek-r1:7b] ➜ Счет (9.20s)
+[Tesseract][llama3] ➜ Счет (2.94s)
+[Tesseract][deepseek-llm] ➜ Счет-фактура. (2.96s)
+[Tesseract][deepseek-r1:7b] ➜ Счет (8.33s)
+
+Файл: KS009503.pdf
+[EasyOCR][llama3] ➜ УПД (2.67s)
+[EasyOCR][deepseek-llm] ➜ Счет (2.41s)
+[EasyOCR][deepseek-r1:7b] ➜ Счет-фактура (5.97s)
+[Tesseract][llama3] ➜ Счет (2.61s)
+[Tesseract][deepseek-llm] ➜ Счет-фактура (2.44s)
+[Tesseract][deepseek-r1:7b] ➜ Счет-фактура (5.54s)
+
+Файл: KS009589.pdf
+[EasyOCR][llama3] ➜ Счет (2.97s)
+[EasyOCR][deepseek-llm] ➜ Счет (2.82s)
+[EasyOCR][deepseek-r1:7b] ➜ Договор (10.26s)
+[Tesseract][llama3] ➜ Счет (2.89s)
+[Tesseract][deepseek-llm] ➜ Счет-фактура. (2.79s)
+[Tesseract][deepseek-r1:7b] ➜ Договор (10.16s)
+

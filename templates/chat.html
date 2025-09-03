@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Чат с Qwen</title>
+</head>
+<body>
+    <h1>Общение с моделью Qwen3:4b</h1>
+    <form id="chat-form">
+        <textarea id="prompt" rows="6" cols="80" placeholder="Введите запрос..."></textarea><br>
+        <button type="submit">Отправить</button>
+    </form>
+    <h3>Ответ:</h3>
+    <pre id="response"></pre>
+
+    <script>
+        document.getElementById("chat-form").addEventListener("submit", async function (e) {
+            e.preventDefault();
+            const prompt = document.getElementById("prompt").value;
+            const res = await fetch("/chat/qwen", {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify({ prompt })
+            });
+            const data = await res.json();
+            document.getElementById("response").textContent = data.response || "Ошибка.";
+        });
+    </script>
+</body>
+</html>

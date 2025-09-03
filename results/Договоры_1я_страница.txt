@@ -1,0 +1,80 @@
+Файл: KN723747.pdf
+[EasyOCR][llama3] ➜ Договор (3.36s)
+[EasyOCR][deepseek-llm] ➜ договор (3.18s)
+[EasyOCR][deepseek-r1:7b] ➜ Договор (7.42s)
+[Tesseract][llama3] ➜ Договор (3.19s)
+[Tesseract][deepseek-llm] ➜ договор (3.03s)
+[Tesseract][deepseek-r1:7b] ➜ Договор (6.52s)
+
+Файл: KT100467.pdf
+[EasyOCR][llama3] ➜ Договор (3.01s)
+[EasyOCR][deepseek-llm] ➜ Договор (2.76s)
+[EasyOCR][deepseek-r1:7b] ➜ Договор (7.82s)
+[Tesseract][llama3] ➜ Договор (2.97s)
+[Tesseract][deepseek-llm] ➜ Договор (2.74s)
+[Tesseract][deepseek-r1:7b] ➜ Договор (6.36s)
+
+Файл: KT103014.pdf
+[EasyOCR][llama3] ➜ Договор (3.21s)
+[EasyOCR][deepseek-llm] ➜ Договор (3.26s)
+[EasyOCR][deepseek-r1:7b] ➜ Договор (6.92s)
+[Tesseract][llama3] ➜ Договор (3.01s)
+[Tesseract][deepseek-llm] ➜ Счет-фактура (3.22s)
+[Tesseract][deepseek-r1:7b] ➜ Договор (7.32s)
+
+Файл: KT112580.pdf
+[EasyOCR][llama3] ➜ Договор (3.41s)
+[EasyOCR][deepseek-llm] ➜ договор (3.50s)
+[EasyOCR][deepseek-r1:7b] ➜ Contract (8.74s)
+[Tesseract][llama3] ➜ Договор (3.27s)
+[Tesseract][deepseek-llm] ➜ Бухгалтерский документ (3.57s)
+[Tesseract][deepseek-r1:7b] ➜ Договор (5.62s)
+
+Файл: KT114289.pdf
+[EasyOCR][llama3] ➜ Договор (2.92s)
+[EasyOCR][deepseek-llm] ➜ Договор (3.21s)
+[EasyOCR][deepseek-r1:7b] ➜ Contract (6.24s)
+[Tesseract][llama3] ➜ Договор (3.04s)
+[Tesseract][deepseek-llm] ➜ Счет (3.13s)
+[Tesseract][deepseek-r1:7b] ➜ Договор (8.23s)
+
+Файл: KT114300.pdf
+[EasyOCR][llama3] ➜ Договор (2.82s)
+[EasyOCR][deepseek-llm] ➜ Договор (3.07s)
+[EasyOCR][deepseek-r1:7b] ➜ Договор (8.22s)
+[Tesseract][llama3] ➜ Договор (2.69s)
+[Tesseract][deepseek-llm] ➜ Договор (2.91s)
+[Tesseract][deepseek-r1:7b] ➜ Договор (5.28s)
+
+Файл: KT114649.pdf
+[EasyOCR][llama3] ➜ Договор (3.05s)
+[EasyOCR][deepseek-llm] ➜ Договор (3.00s)
+[EasyOCR][deepseek-r1:7b] ➜ Договор (7.66s)
+[Tesseract][llama3] ➜ Договор (2.70s)
+[Tesseract][deepseek-llm] ➜ Счет-фактура (2.89s)
+[Tesseract][deepseek-r1:7b] ➜ Contract (8.43s)
+
+Файл: KT114680.pdf
+[EasyOCR][llama3] ➜ Договор (3.45s)
+[EasyOCR][deepseek-llm] ➜ деятельства (3.58s)
+[EasyOCR][deepseek-r1:7b] ➜ Договор (6.71s)
+[Tesseract][llama3] ➜ Договор (2.95s)
+[Tesseract][deepseek-llm] ➜ Договор (3.26s)
+[Tesseract][deepseek-r1:7b] ➜ Договор (7.15s)
+
+Файл: КТ114624.pdf
+[EasyOCR][llama3] ➜ Договор (3.04s)
+[EasyOCR][deepseek-llm] ➜ Договор (2.84s)
+[EasyOCR][deepseek-r1:7b] ➜ .Contract (8.02s)
+[Tesseract][llama3] ➜ Договор (2.96s)
+[Tesseract][deepseek-llm] ➜ Счет-фактура (3.06s)
+[Tesseract][deepseek-r1:7b] ➜ Договор (7.94s)
+
+Файл: КТ114662.pdf
+[EasyOCR][llama3] ➜ Договор (3.54s)
+[EasyOCR][deepseek-llm] ➜ допоЛНИТеЛЬНЫЕ (4.11s)
+[EasyOCR][deepseek-r1:7b] ➜ Технический контроль (9.31s)
+[Tesseract][llama3] ➜ Договор (3.36s)
+[Tesseract][deepseek-llm] ➜ детальный (3.62s)
+[Tesseract][deepseek-r1:7b] ➜ Договор (6.59s)
+

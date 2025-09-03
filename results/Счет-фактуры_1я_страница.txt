@@ -1,0 +1,80 @@
+Файл: 2025012720215006107.pdf
+[EasyOCR][llama3] ➜ Счетная форма (3.55s)
+[EasyOCR][deepseek-llm] ➜ Счет-фактура (3.51s)
+[EasyOCR][deepseek-r1:7b] ➜ отчет (13.42s)
+[Tesseract][llama3] ➜ Счет-фактура (3.16s)
+[Tesseract][deepseek-llm] ➜ УПД (3.35s)
+[Tesseract][deepseek-r1:7b] ➜ bill (5.83s)
+
+Файл: 2025012720215306114.pdf
+[EasyOCR][llama3] ➜ Счет-фактура (3.40s)
+[EasyOCR][deepseek-llm] ➜ Счет-фактура (3.29s)
+[EasyOCR][deepseek-r1:7b] ➜ УПД (8.39s)
+[Tesseract][llama3] ➜ Акт (3.26s)
+[Tesseract][deepseek-llm] ➜ Счет-фактура. (3.26s)
+[Tesseract][deepseek-r1:7b] ➜ Счет-фактура (12.24s)
+
+Файл: 2025012720215506118.pdf
+[EasyOCR][llama3] ➜ Счет-фактура (3.37s)
+[EasyOCR][deepseek-llm] ➜ Счет-фактура (3.25s)
+[EasyOCR][deepseek-r1:7b] ➜ СЧЕТ-ФАКУТРА (11.48s)
+[Tesseract][llama3] ➜ УПД (3.06s)
+[Tesseract][deepseek-llm] ➜ Счет-фактура. (2.96s)
+[Tesseract][deepseek-r1:7b] ➜ Счет-фактура (9.05s)
+
+Файл: 2025012720592306180.pdf
+[EasyOCR][llama3] ➜ Счет-фактура (3.02s)
+[EasyOCR][deepseek-llm] ➜ счет-фактура (2.87s)
+[EasyOCR][deepseek-r1:7b] ➜ Счет-фактура (8.05s)
+[Tesseract][llama3] ➜ Счет-фактура (2.95s)
+[Tesseract][deepseek-llm] ➜ Счет (2.76s)
+[Tesseract][deepseek-r1:7b] ➜ Счет-фактура (8.30s)
+
+Файл: 2025012819460905127.pdf
+[EasyOCR][llama3] ➜ Счет-фактура (2.88s)
+[EasyOCR][deepseek-llm] ➜ Счет-фактура (2.65s)
+[EasyOCR][deepseek-r1:7b] ➜ Ответ:Contract (8.07s)
+[Tesseract][llama3] ➜ Счет-фактура (2.80s)
+[Tesseract][deepseek-llm] ➜ Счет-фактура (2.59s)
+[Tesseract][deepseek-r1:7b] ➜ Счет-фактура (7.57s)
+
+Файл: 2025012910254407558.pdf
+[EasyOCR][llama3] ➜ Счет-фактура (3.04s)
+[EasyOCR][deepseek-llm] ➜ Счет-фактура (2.88s)
+[EasyOCR][deepseek-r1:7b] ➜ Счет-фактура (9.70s)
+[Tesseract][llama3] ➜ Счет-фактура (2.95s)
+[Tesseract][deepseek-llm] ➜ Счет-фактура (2.80s)
+[Tesseract][deepseek-r1:7b] ➜ УПД (6.37s)
+
+Файл: 2025012910260607611.pdf
+[EasyOCR][llama3] ➜ Счет-фактура (3.02s)
+[EasyOCR][deepseek-llm] ➜ счет-фактура (2.84s)
+[EasyOCR][deepseek-r1:7b] ➜ счет-фактура (12.23s)
+[Tesseract][llama3] ➜ Счет-фактура (2.86s)
+[Tesseract][deepseek-llm] ➜ Счет-фактура (2.63s)
+[Tesseract][deepseek-r1:7b] ➜ Счет-фактура (5.85s)
+
+Файл: 2025021016292509524.pdf
+[EasyOCR][llama3] ➜ Платёжный документ (Payment Document). (3.67s)
+[EasyOCR][deepseek-llm] ➜ НДС (4.37s)
+[EasyOCR][deepseek-r1:7b] ➜ Один (17.09s)
+[Tesseract][llama3] ➜ Документ - акт отгрузки товара. (3.69s)
+[Tesseract][deepseek-llm] ➜ Счет-фактура (3.76s)
+[Tesseract][deepseek-r1:7b] ➜ Мне не хватает информации для определения, какое из предложенных слов соответствует заданию. Пожалуйста, уточните ваш запрос! (9.26s)
+
+Файл: 2025021016293909557.pdf
+[EasyOCR][llama3] ➜ Учетная документация (Accounting document) (3.42s)
+[EasyOCR][deepseek-llm] ➜ Тип документа: Счет-фактура (4.16s)
+[EasyOCR][deepseek-r1:7b] ➜ Изменение данных на... (13.56s)
+[Tesseract][llama3] ➜ Счет-фактура (3.43s)
+[Tesseract][deepseek-llm] ➜ Счет-фактура. (3.48s)
+[Tesseract][deepseek-r1:7b] ➜ 合同 (12.94s)
+
+Файл: 2025021016294409569.pdf
+[EasyOCR][llama3] ➜ Документ - счет-фактура. (3.63s)
+[EasyOCR][deepseek-llm] ➜ Учимся (4.57s)
+[EasyOCR][deepseek-r1:7b] ➜ ERP (11.40s)
+[Tesseract][llama3] ➜ Счет-фактура (3.48s)
+[Tesseract][deepseek-llm] ➜ Счет-фактура. (3.51s)
+[Tesseract][deepseek-r1:7b] ➜ _onacci (13.72s)
+
